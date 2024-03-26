@@ -1,0 +1,46 @@
+.parent {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.pg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+img {
+    margin-top: 50px;
+}
+
+img.border {
+    border: 4px solid #22aadd;
+    border-radius: 12px;
+    padding: 2px;
+}
+
+.line {
+    border-bottom: 4px solid #373737;
+    padding-bottom: 20px;
+}
+
+p.additionaltext {
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+}
+
+#BTT {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    cursor: pointer;
+    border-radius: 35px;
+    background-color: #D0DBF4;
+    border: solid 5px #494D5F;
+}
